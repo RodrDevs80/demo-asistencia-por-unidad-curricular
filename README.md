@@ -331,4 +331,4 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O 
 
 ## Video explicativo
 
-📺 [Ver video explicativo del proyecto](<(https://notebooklm.google.com/notebook/ce1c7555-7f76-468f-9b82-41adbb8f3390?artifactId=7b2b33f4-3863-482e-800d-6cafaab01274)>)
+📺 [Ver video explicativo del proyecto](https://notebooklm.google.com/notebook/ce1c7555-7f76-468f-9b82-41adbb8f3390?artifactId=7b2b33f4-3863-482e-800d-6cafaab01274)
