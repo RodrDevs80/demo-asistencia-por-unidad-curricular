@@ -50,8 +50,6 @@ git clone https://github.com/tu-usuario/sistema-asistencias.git
 cd sistema-asistencias
 ```
 
-````
-
 ### 2. Configurar la base de datos
 
 Crea una base de datos en MySQL (por ejemplo `asistencia_db`).
@@ -331,4 +329,7 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRA FORMA, QUE SURJA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TIPOS DE ACCIONES EN EL SOFTWARE.
 
-````
+```
+
+
+```
